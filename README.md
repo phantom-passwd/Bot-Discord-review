@@ -45,8 +45,8 @@ A Python Discord bot that allows users to **review products** using **slash comm
        - `product`: The product to add or remove.
        - `mandatory`: Defines whether product selection is required in the `/review` command.
 
-     Example usage:
-     ![Setup Product Example](./img/setup.png)
+
+![Setup Product Example](./img/setup.png)
 
    - **/review**:
      - Description: Submit a review with a star rating, an image link, and a message.
@@ -56,8 +56,7 @@ A Python Discord bot that allows users to **review products** using **slash comm
        - `product`: Select a product from the list (optional).
        - `message`: Your review message.
 
-    Example usage:
-    ![Setup Product Example](./img/review.png)
+![Setup Product Example](./img/review.png)
 
 ## License 📄
 
