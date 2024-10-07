@@ -56,10 +56,8 @@ A Python Discord bot that allows users to **review products** using **slash comm
        - `product`: Select a product from the list (optional).
        - `message`: Your review message.
 
-     Example usage:
-     ```
-     /review number=5 image_link="https://image.com/product.jpg" product="Product X" message="Great product!"
-     ```
+    Example usage:
+    ![Setup Product Example](./img/review.png)
 
 ## License 📄
 
