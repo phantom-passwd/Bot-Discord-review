@@ -9,6 +9,10 @@ A Python Discord bot that allows users to **review products** using **slash comm
 - **Autocomplete**: Autocomplete is integrated for selecting products in the `/review` command and `/setup` command.
 - **Permissions**: Only administrators can set up products.
 
+![Setup Product Example](./img/final.png)
+
+
+
 ## Installation 📦
 
 1. **Clone the repository**:
