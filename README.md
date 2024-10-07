@@ -46,9 +46,7 @@ A Python Discord bot that allows users to **review products** using **slash comm
        - `mandatory`: Defines whether product selection is required in the `/review` command.
 
      Example usage:
-     ```
-     /setup_product product="Product X" mandatory=True
-     ```
+     ![Setup Product Example](./img/setup.png)
 
    - **/review**:
      - Description: Submit a review with a star rating, an image link, and a message.
