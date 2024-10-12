@@ -70,6 +70,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
+
+
+😄 BTC >> bc1q25q4dlp98ym8g32uyhf9elazcgv4rltqggzm20
+
+😄 ETH >> 0xAb916211C1ebd0475CC5ae2ad20a46AFe4C7e89F
+
 ## Contact 📧
 
 For any inquiries, contact `phantoms_._` on Discord.
